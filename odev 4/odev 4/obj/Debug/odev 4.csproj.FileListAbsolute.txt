@@ -1,0 +1,11 @@
+C:\Users\lab_c\source\repos\odev 4\odev 4\bin\Debug\odev 4.exe.config
+C:\Users\lab_c\source\repos\odev 4\odev 4\bin\Debug\odev 4.exe
+C:\Users\lab_c\source\repos\odev 4\odev 4\bin\Debug\odev 4.pdb
+C:\Users\lab_c\source\repos\odev 4\odev 4\obj\Debug\odev 4.csproj.AssemblyReference.cache
+C:\Users\lab_c\source\repos\odev 4\odev 4\obj\Debug\odev 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab_c\source\repos\odev 4\odev 4\obj\Debug\odev_4.Form1.resources
+C:\Users\lab_c\source\repos\odev 4\odev 4\obj\Debug\odev_4.Properties.Resources.resources
+C:\Users\lab_c\source\repos\odev 4\odev 4\obj\Debug\odev 4.csproj.GenerateResource.cache
+C:\Users\lab_c\source\repos\odev 4\odev 4\obj\Debug\odev 4.csproj.CoreCompileInputs.cache
+C:\Users\lab_c\source\repos\odev 4\odev 4\obj\Debug\odev 4.exe
+C:\Users\lab_c\source\repos\odev 4\odev 4\obj\Debug\odev 4.pdb
