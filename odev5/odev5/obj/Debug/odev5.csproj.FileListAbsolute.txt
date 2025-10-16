@@ -1,0 +1,11 @@
+C:\Users\lab_c\Desktop\odev5\odev5\bin\Debug\odev5.exe.config
+C:\Users\lab_c\Desktop\odev5\odev5\bin\Debug\odev5.exe
+C:\Users\lab_c\Desktop\odev5\odev5\bin\Debug\odev5.pdb
+C:\Users\lab_c\Desktop\odev5\odev5\obj\Debug\odev5.csproj.AssemblyReference.cache
+C:\Users\lab_c\Desktop\odev5\odev5\obj\Debug\odev5.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab_c\Desktop\odev5\odev5\obj\Debug\odev5.Form1.resources
+C:\Users\lab_c\Desktop\odev5\odev5\obj\Debug\odev5.Properties.Resources.resources
+C:\Users\lab_c\Desktop\odev5\odev5\obj\Debug\odev5.csproj.GenerateResource.cache
+C:\Users\lab_c\Desktop\odev5\odev5\obj\Debug\odev5.csproj.CoreCompileInputs.cache
+C:\Users\lab_c\Desktop\odev5\odev5\obj\Debug\odev5.exe
+C:\Users\lab_c\Desktop\odev5\odev5\obj\Debug\odev5.pdb
